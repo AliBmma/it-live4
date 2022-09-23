@@ -16,10 +16,11 @@ body{height: 2000px;}
 
 
 
-@media (max-width:800px){.text1{font-size: 30px; margin-bottom: 10cm; text-shadow: 2px 2px #000000;}
+@media (max-width:480px){.text1{font-size: 30px; margin-bottom: 10cm; text-shadow: 2px 2px #000000;}
 
-.text1{text-shadow:3px 3px 5px red;}
-.counter{margin-top: -11cm;}
+
+.text1{text-shadow:3px 3px 5px red; }
+.counter{margin-top: -7cm;}
 .text1{
   margin-top: -5cm;
     
